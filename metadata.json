@@ -1,0 +1,8 @@
+{
+  "name": "Remix Inducción SENA Pro - Acuerdo 0009",
+  "description": "Plataforma de inducción y reglamento del aprendiz SENA basada en el Acuerdo 0009 de 2024 con caracterización y módulos interactivos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
